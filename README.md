@@ -1,8 +1,8 @@
 # Projeto-470-SP
 Enredo e referências
 
-<h2>DUPLAS: AMANDA E JULIANA/
-         BRYAN E GABRIEL TOLEDO</h2>
+<h2>DUPLAS: JULIANA E LUCAS C./
+         BRYAN E CAUÃ M.</h2>
          
 # Wiki
 
