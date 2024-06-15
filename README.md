@@ -13,12 +13,12 @@ Enredo e referências
 
 # Link da fases no drive
 
-## fase 1
+## Fase 1
 
-## fase 2
+## Fase 2
 
-## fase 3
+## Fase 3
 
-## fase 4
+## Fase 4
 <a href="https://drive.google.com/file/d/1psxCA4l7pPAl5tAdmdrD39RB6CIf9Iw-/view?usp=sharing">Link fase 4</a>
 
