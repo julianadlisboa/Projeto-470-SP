@@ -10,6 +10,7 @@ Enredo e referências
 - <a href="https://github.com/julianadlisboa/Projeto-470-SP/wiki/Personagens">Personagens</a>
 - <a href="https://github.com/julianadlisboa/Projeto-470-SP/wiki/Proposta-de-Jogo">Proposta de Jogo</a>
 - <a href="https://github.com/julianadlisboa/Projeto-470-SP/wiki/Refer%C3%AAncias">Referências</a>
+- <a href="https://github.com/julianadlisboa/Projeto-470-SP/wiki/Jogo">Jogo</a>
 
 # Link da fases no drive
 
