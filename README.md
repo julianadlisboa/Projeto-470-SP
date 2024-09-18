@@ -1,5 +1,4 @@
 # Projeto-470-SP
-Enredo e referências
 
 <h2>DUPLAS: JULIANA E LUCAS C./
          BRYAN E CAUÃ M.</h2>
